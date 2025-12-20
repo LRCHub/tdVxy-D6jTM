@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "君の体温",
+  "base_artist": "クワガタP",
+  "createdAt": "2025-12-20T17:54:14.158007Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君の体温",
+      "artist": "KuwagataP",
+      "has_synced": true,
+      "path": "select/01_君の体温_KuwagataP.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "君の体温",
+      "artist": "クワガタP feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/02_君の体温_クワガタP_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "君の体温",
+      "artist": "クワガタP",
+      "has_synced": true,
+      "path": "select/03_君の体温_クワガタP.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "君の体温",
+      "artist": "クワガタp",
+      "has_synced": false,
+      "path": "select/04_君の体温_クワガタp.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "君の体温",
+      "artist": "Hatsune Miku",
+      "has_synced": true,
+      "path": "select/05_君の体温_Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "【Ado】君の体温 歌いました",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/06_【Ado】君の体温_歌いました_Ado.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君の体温 (feat. 初音ミク)",
+      "artist": "クワガタP",
+      "has_synced": false,
+      "path": "select/pl_01_君の体温_(feat._初音ミク)_クワガタP.txt"
+    }
+  ]
+}
